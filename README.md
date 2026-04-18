@@ -336,6 +336,7 @@ This project analyzes IPL 2022 cricket data to understand team and player perfor
 
 - Add predictive match model
 - Build performance dashboards
+
 🍽️ Project 6: Zomato Data Analysis
 
 README.md
@@ -393,28 +394,30 @@ This project analyzes restaurant data to identify trends in ratings, pricing, an
 - Build recommendation system
 - Add restaurant clustering
 - Deploy visualization dashboard
-
+  
+---
 🚀 How to Run the Projects
 Step 1 — Clone Repository
-git clone https://github.com/your-username/your-repository-name.git
+- git clone https://github.com/your-username/your-repository-name.git
 Step 2 — Install Dependencies
-pip install pandas numpy matplotlib seaborn psycopg2
+- pip install pandas numpy matplotlib seaborn psycopg2
 Step 3 — Run Notebooks
-jupyter notebook
+- jupyter notebook
 Open any .ipynb file and run the cells.
 
 📊 Future Improvements
-Add Machine Learning models
-Deploy projects using Streamlit
-Create dashboards
-Integrate APIs
-Improve UI/UX
+- Add Machine Learning models
+- Deploy projects using Streamlit
+- Create dashboards
+- Integrate APIs
+- Improve UI/UX
 
 📬 Contact
 If you'd like to collaborate or discuss opportunities:
-Name: Mujeebur Rehman
-Email: mujeebur.rehman.data.ai@gmail.com
-LinkedIn: https://www.linkedin.com/in/mujeebur-rehman-data-ai/
+- Name: Mujeebur Rehman
+- WhatsApp/Call: +971565327237
+- Email: mujeebur.rehman.data.ai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mujeebur-rehman-data-ai/
 
-                                                                Thank you
-                                                              Mujeebur Rehman 
+                                                                        Thank you
+                                                                      Mujeebur Rehman 
