@@ -7,21 +7,21 @@ These projects showcase real-world problem-solving using data-driven techniques 
 
 👤 Author
 
-Mujeeb Ur Rehman
+MujeebUr Rehman
 Aspiring Data Scientist | Data Analyst | AI/ML Engineer | AI Enthusiast | Python Developer
 
 Skills:
 
-Python (Pandas, Numpy, Flask, FastAPI, Seaborn, Matplotlib)
-JavaScript(MERN - MongoDB, Express.js, React.js, Node.js)
-Artificial Intelligence
-Generative.AI
-Machine Learning
-Data Analysis
-Data Scientist
-SQL & PostgreSQL
-Power BI
-Data Visualization
-AI Applications (Claude.ai, GitHub Copilot, Gemini, GPT-4, etc)
-Software Engineer / Developer
-HTML & Web Development
+Python (Pandas, Numpy, Flask, FastAPI, Seaborn, Matplotlib),
+JavaScript(MERN - MongoDB, Express.js, React.js, Node.js),
+Artificial Intelligence,
+Generative.AI,
+Machine Learning,
+Data Analysis,
+Data Scientist,
+SQL & PostgreSQL,
+Power BI,
+Data Visualization,
+AI Applications (Claude.ai, GitHub Copilot, Gemini, GPT-4, etc),
+Software Engineer / Developer,
+HTML & Web Development.
